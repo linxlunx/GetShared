@@ -1,0 +1,14 @@
+1. need python installed in your system.
+2. need pycurl module installed in your system.
+3. Use it with your own risk!
+
+example:
+
+$ python getshared.py 
+4shared download script
+Usage: python getshared.py http://link4shared FileName
+
+$ python getshared.py http://www.4shared.com/audio/Z6kV4TKC/Sherina_-_Cinta_Pertama__Terak.html pertamadanterakhir.mp3
+pertamadanterakhir.mp3                                                                                                                                                                                  | 4.3 MB     00:32 
+
+there is no word like 'copyright' in this application. Just use,and enjoy :)
